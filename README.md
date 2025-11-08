@@ -28,12 +28,13 @@ Created as a take-home assignment for ZFWHospitality.
 - **Character list:** Fetches paginated character data from SWAPI and displays as cards.
 - **Random images:** Uses Picsum Photos for character images.
 - **Species accent colors:** Card background changes by species.
-- **Modal detail view:** Click a card to view character details (height, mass, birth year, number of films, homeworld info, date added).
+- **Modal detail view:** Click a card to view character details
+  (height, mass, birth year, number of films, homeworld info, date added).
 - **Pagination:** Navigate between different pages of results.
 - **Responsive design:** Fully functional across mobile, tablet, and desktop.
 - **Loading/error UI:** User-friendly skeleton loaders and error messages.
 
-### Bonus Features (if implemented)
+### Bonus Features
 - Search bar for character name
 - Filters for homeworld, film, species
 - Combined search + filter logic
@@ -50,8 +51,6 @@ Created as a take-home assignment for ZFWHospitality.
 - Skeleton and error states improve the user experience.
 - Fetches additional homeworld/species data only as needed to optimize API calls.
 
-## Submission
 
-Share this repository link with the interviewer once complete.
 
 ---
