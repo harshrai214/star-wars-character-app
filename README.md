@@ -1,7 +1,6 @@
 # Star Wars Character App
 
-A fully responsive React web application displaying Star Wars characters from SWAPI.  
-Created as a take-home assignment for ZFWHospitality.
+A fully responsive React web application displaying Star Wars characters.  
 
 ## How to Run the Project
 
