@@ -7,7 +7,7 @@ Created as a take-home assignment for ZFWHospitality.
 
 1. **Clone the repo:**
     ```
-    git clone https://github.com/<your-username>/star-wars-character-app.git
+    git clone https://github.com/harshrai214/star-wars-character-app.git
     cd star-wars-character-app
     ```
 
