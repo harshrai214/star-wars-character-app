@@ -50,6 +50,27 @@ A fully responsive React web application displaying Star Wars characters.
 - Skeleton and error states improve the user experience.
 - Fetches additional homeworld/species data only as needed to optimize API calls.
 
+## Screenshots
+
+Below are screenshots from the Star Wars Character App showing the responsive layout, character cards, modal detail view, and filters.
+
+<!-- Put the image files in a folder like `docs/screenshots/` in the repo -->
+<p align="center">
+  <img src="docs/screenshots/home-desktop.png" alt="Home page on desktop showing character cards" width="900" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/home-mobile.png" alt="Home page on mobile" width="320" />
+  <img src="docs/screenshots/character-modal.png" alt="Character modal detail view" width="320" />
+  <img src="docs/screenshots/search-and-filters.png" alt="Search bar and filters" width="320" />
+</p>
+
+**Captions**
+- **Home (Desktop):** Paginated list of character cards with species accent color backgrounds.  
+- **Home (Mobile):** Fully responsive card layout optimized for small screens.  
+- **Character Modal:** Height, mass, birth year, homeworld and films — opened from a card.  
+- **Search & Filters:** Combined search + filter UI for name, homeworld, film, species.
+
 
 
 ---
