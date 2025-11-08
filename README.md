@@ -56,13 +56,13 @@ Below are screenshots from the Star Wars Character App showing the responsive la
 
 <!-- Put the image files in a folder like `docs/screenshots/` in the repo -->
 <p align="center">
-  <img src="docs/screenshots/home-desktop.png" alt="Home page on desktop showing character cards" width="900" />
+  <img src="docs/screenshots/Screenshot 2025-11-08 234936.png" alt="Login Page" width="900" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/home-mobile.png" alt="Home page on mobile" width="320" />
-  <img src="docs/screenshots/character-modal.png" alt="Character modal detail view" width="320" />
-  <img src="docs/screenshots/search-and-filters.png" alt="Search bar and filters" width="320" />
+  <img src="docs/screenshots/Screenshot 2025-11-08 235043.png" alt="Home page" width="320" />
+  <img src="docs/screenshots/Screenshot 2025-11-08 235147.png" alt="Character modal detail view" width="320" />
+ 
 </p>
 
 **Captions**
